@@ -1,0 +1,3 @@
+keywords are collectin of reserved words and predefined identifieer
+main() is a preddefined identifier
+ a pre defined identifier can be used to name any other entity

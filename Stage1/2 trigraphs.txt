@@ -1,0 +1,13 @@
+??= #
+??( [
+??< {
+??/ \
+??) ]
+??> }
+??’ ˆ
+??! |
+??- ˜
+
+
+In older compilers, trigraphs were used.
+In modern compilers, trigraph features are disabled. So, the warning shows to enable the trigraph.

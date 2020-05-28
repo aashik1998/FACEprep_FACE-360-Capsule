@@ -1,0 +1,13 @@
+primitive
+
+int float double char void boolean wchar_t
+
+
+derived datatypes
+
+functi  array pointer reference
+
+
+user defibed datatyes
+
+class strut union enum typedef
